@@ -11,7 +11,7 @@ The analyses were conducted as part of a Master of Public Health (International)
 
 ## Research Question
 
-**What are the socioeconomic and behavioural correlates of major modifiable stroke risk factors among South African adults, and do these associations differ by sex?**
+**What are the socioeconomic correlates of major modifiable stroke risk factors among South African adults, and do these associations differ by sex?**
 
 ---
 
