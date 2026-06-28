@@ -158,7 +158,7 @@ To reproduce the analyses:
 
 If you use or adapt this code, please cite:
 
-Ojo IS. *Socioeconomic and behavioural correlates of stroke risk factors by sex in South Africa: A Demographic and Health Survey–based analysis.* Master of Public Health Dissertation, University of Leeds.
+Ojo IS. *Socioeconomic and healthcare access correlates of stroke risk factors by sex in South Africa: A Demographic and Health Survey–based analysis.* Master of Public Health Dissertation, University of Leeds.
 
 ---
 
